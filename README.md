@@ -23,8 +23,8 @@ A smart contract project for deploying custom ERC20 tokens on Base Network with 
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd <project-directory>
+git clone https://github.com/yllvar/base-on-fun.git
+cd base-on-fun
 ```
 
 2. Install dependencies:
